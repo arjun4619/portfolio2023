@@ -16,6 +16,7 @@
     "react-dom": "18.2.0",
     "react-icons": "^4.8.0",
     "styled-components": "^5.3.9",
-    "styled-normalize": "^8.0.7"
+    "styled-normalize": "^8.0.7",
+    "typewriter-effect": "^2.19.0"
   }
 }

@@ -25,7 +25,7 @@ const Header = () => (
         }}
       >
         {/* <DiCssdeck size="3rem" /> */}
-        <Span>Arjun Shankar</Span>
+        <Span>Arjun</Span>
       </Link>
     </Div1>
     <Div2>

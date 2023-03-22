@@ -26,7 +26,7 @@ export const projects = [
     image: "/images/portfolio.png",
     tags: ["React", "Styled-components"],
     source: "https://google.com",
-    visit: "https://google.com",
+    visit: "https://github.com/arjun4619/portfolio2023",
     id: 2,
   },
   // {
